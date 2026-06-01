@@ -1,0 +1,168 @@
+ESTRATEGIA Y ANÁLISIS TÉCNICO EN FÓRMULA 1
+
+=== ESTRATEGIA DE NEUMÁTICOS ===
+
+TIPOS DE ESTRATEGIA:
+One-stop: Un pit stop durante la carrera
+- Ventaja: Menos tiempo perdido en pits (~20-25 segundos por pit)
+- Desventaja: Neumáticos muy desgastados al final
+- Funciona bien en: Pistas de bajo desgaste (Monza, Baku)
+
+Two-stop: Dos pit stops
+- Ventaja: Neumáticos más frescos, mayor ritmo
+- Desventaja: Más tiempo perdido en total
+- Funciona bien en: Pistas de alto desgaste (Bahrain, Barcelona)
+
+Three-stop: Tres pit stops (raro, solo en circuitos muy abrasivos)
+
+MANIOBRAS ESTRATÉGICAS:
+Undercut: Entrar al pit ANTES que el rival
+- Salir con neumáticos más frescos y superar al rival en la vuelta rápida
+- Funciona cuando el tiempo de pit loss < ventaja de neumáticos frescos
+- Típicamente efectivo cuando hay 2-3 segundos de diferencia
+
+Overcut: Quedarse MÁS tiempo en pista que el rival
+- Apostar a que el rival pierde tiempo en pits mientras tú mantienes ritmo
+- Efectivo cuando los neumáticos no se degradan mucho
+- Funciona con corta distancia al próximo auto
+
+Reacción de Safety Car: Aprovechar el SC para hacer pit sin perder tiempo
+- "Free pit stop": El SC cierra las diferencias, el pit stop cuesta muy poco
+- Riesgo: Salir detrás de autos que no hicieron pit
+
+Tire Stack: Apilar neumáticos usados para una estrategia alternativa
+- Ejemplo: Correr en Hard mucho tiempo, luego usar Soft fresco para el final
+
+FACTORES QUE AFECTAN LA ESTRATEGIA:
+- Temperatura de la pista (> temperatura = más desgaste)
+- Temperatura del aire
+- Tipo de asfalto (Barcelona es muy abrasivo)
+- Peso del combustible (autos pesan más al inicio, menos desgaste relativo)
+- Seguimiento de tráfico (afecta temperatura de neumáticos)
+- Safety car / VSC timing
+
+=== ANÁLISIS DE PIT STOPS ===
+
+Tiempo promedio de pit stop (stationary time): 2.0 - 2.5 segundos (élite)
+Récord mundial: ~1.80 segundos (Red Bull 2023)
+Pit stop lento: > 3.5 segundos (problemas con tuercas, gun failure, etc.)
+
+Proceso del pit stop (secuencia exacta):
+1. Piloto entra al pit lane a velocidad limitada (~80 km/h)
+2. Para exactamente en la marca del equipo
+3. 18 mecánicos actúan simultáneamente:
+   - 4 cambiadores de ruedas (uno por rueda)
+   - 4 controladores de ruedas (verifican seguridad)
+   - 4 gatos hidráulicos (levantan el auto)
+   - Mecánicos adicionales para limpiar aleron, ajustes
+4. La tuerca se afloja, se quita la rueda vieja, se pone la nueva, se aprieta
+5. Cuando las 4 ruedas están aseguradas, el auto baja
+6. Semáforo verde y el piloto sale
+
+Errores comunes:
+- Unsafe release: Soltar el auto cuando otro viene por el pit lane
+- Wheel not fitted: Rueda no asegurada correctamente (puede salir volando)
+- Wheel nut cross-threaded: Tuerca cruzada
+- Jack failure: Fallo del gato hidráulico
+
+=== ANÁLISIS DE RENDIMIENTO EN PISTA ===
+
+MÉTRICAS CLAVE:
+Tiempo de vuelta: Medida principal de rendimiento
+Sector times: La vuelta se divide en 3 sectores para análisis detallado
+Mini-sectors: Subdivisiones para localizar dónde se gana/pierde tiempo
+
+Vueltas rápidas relativas:
+- Pace: Velocidad promedio en vueltas "representativas"
+- Stint pace: Promedio de tiempos de vuelta en un stint específico
+- Long run pace (en clasificación Friday): Simulación de carrera
+
+DEGRADACIÓN DE NEUMÁTICOS:
+- Se mide como la diferencia de tiempo entre vuelta 1 y última vuelta del stint
+- Alta degradación: Pérdida > 0.1 segundos por vuelta
+- Baja degradación: Pérdida < 0.05 segundos por vuelta
+
+SOBREVIRAJE vs SUBVIRAJE:
+- Sobreviraje (oversteer): La parte trasera del auto pierde tracción en curvas
+  → El piloto debe "conter-volantear" (contra dirección)
+  → Más dramático, pero favorito de algunos pilotos
+- Subviraje (understeer): La parte delantera no sigue la trayectoria deseada
+  → El auto "tira" hacia afuera de la curva
+  → Más estable pero más lento en curvas
+
+SETUP DEL AUTO:
+Downforce (carga aerodinámica):
+- High downforce: Más grip en curvas, menos velocidad en recta (mónaco)
+- Low downforce: Menos grip en curvas, mayor velocidad en recta (Monza)
+
+Ride height (altura al suelo):
+- Más bajo = más efecto suelo = más downforce
+- Muy bajo = riesgo de porpoising y daños
+
+Wing angles:
+- Ala delantera: Ajustable por el piloto (en algunos circuitos)
+- Ala trasera: Se cambia entre sesiones según necesidad
+
+Springs y amortiguadores:
+- Suspension dura: Mejor comportamiento aerodinámico pero peor sobre baches
+- Suspension blanda: Más cómodo pero peor aerodinámica
+
+WHEEL ALIGNMENT:
+- Toe: Ángulo de las ruedas visto desde arriba
+  → Toe-in: ruedas apuntan ligeramente hacia adentro (estabilidad)
+  → Toe-out: ruedas apuntan ligeramente hacia afuera (agilidad)
+- Camber: Inclinación de las ruedas vista de frente
+  → Camber negativo: Top de la rueda inclinado hacia el auto (mejor en curvas)
+
+=== DRS (DRAG REDUCTION SYSTEM) - ANÁLISIS ===
+El DRS reduce resistencia aerodinámica en la recta
+Ventaja típica de velocidad: 10-15 km/h (varía por circuito)
+Circuitos con más zonas DRS: Baku (3 zonas), Monza (2 zonas largas)
+Circuitos sin DRS efectivo: Mónaco (las rectas son muy cortas)
+
+Controversia del DRS:
+- Pro: Permite adelantamientos en pistas donde sería imposible
+- Contra: Los adelantamientos son "artificiales", no refleja solo velocidad real
+
+=== ANÁLISIS DE CARRERA EN TIEMPO REAL ===
+
+MÉTRICAS A MONITOREAR:
+- Gap entre pilotos (en segundos y décimas)
+- Stint length (número de vueltas con los mismos neumáticos)
+- Tire age comparativo (¿quién tiene neumáticos más frescos?)
+- Pit window: Cuándo es óptimo hacer el pit stop
+- Overcut/undercut possibility: ¿Hay ventaja en cambiar la estrategia?
+
+SEÑALES DE DEGRADACIÓN EN TIEMPO REAL:
+- Tiempos de vuelta que se degradan gradualmente
+- Pilot radio: "The tyres are going away"
+- Diferencia entre sector times vs laps anteriores
+
+SAFETY CAR ANALYSIS:
+Cuando sale el SC, el análisis clave es:
+1. ¿Quién tiene neumáticos más viejos? → Deben entrar al pit (free stop)
+2. ¿Cuántas vueltas quedan? → Si pocas vueltas, entrar puede ser contraproducente
+3. ¿Dónde está el SC en pista cuando ocurre el incidente?
+
+=== ANÁLISIS COMPARATIVO DE EQUIPOS ===
+
+VELOCIDAD EN RECTA (2024, aprox):
+1. Ferrari - mejor motor top speed
+2. Mercedes - equilibrado
+3. Red Bull - eficiente
+4. McLaren - excelente balance
+
+RENDIMIENTO EN CURVAS LENTAS:
+1. Red Bull - histórico en curvas lentas
+2. McLaren - muy competitivo 2024
+3. Ferrari - inconsistente
+
+GESTIÓN DE NEUMÁTICOS:
+1. Ferrari - buena en compuestos duros
+2. Red Bull - excelente consistencia
+3. Mercedes - depende del circuito
+
+ESTRATEGIA DE PIT STOPS (velocidad):
+1. Red Bull - récord mundial de pit stops
+2. Ferrari - consistentemente rápido
+3. Mercedes - sólido

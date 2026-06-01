@@ -1,0 +1,116 @@
+REGLAMENTOS TÉCNICOS DE FÓRMULA 1
+
+=== REGLAMENTO TÉCNICO 2022-2025 (ERA ACTUAL) ===
+
+CONCEPTO PRINCIPAL: EFECTO SUELO (Ground Effect)
+Introducido en 2022, el efecto suelo usa el fondo del auto para generar carga aerodinámica
+mediante "tunnels" venturi que aceleran el aire debajo del coche, creando baja presión.
+Esto reduce la dependencia de alas y permite seguir de más cerca a otros autos.
+
+POWER UNIT (Unidad de Potencia)
+Composición del motor híbrido:
+- ICE (Internal Combustion Engine): Motor V6 turbo de 1.6 litros, ~620 CV
+- MGU-H (Motor Generator Unit - Heat): Recupera energía del turbocompresor (eliminado en 2026)
+- MGU-K (Motor Generator Unit - Kinetic): Recupera energía de frenada, ~120 CV adicionales
+- ES (Energy Store): Batería de iones de litio, 4 MJ de capacidad
+- CE (Control Electronics): Unidad de control
+Potencia total combinada: ~1000 CV
+
+NEUMÁTICOS
+Proveedor exclusivo: Pirelli
+Compuestos slick: C1 (más duro) → C2 → C3 → C4 → C5 (más blando)
+Para cada carrera se seleccionan 3 compuestos: Hard, Medium, Soft
+Neumáticos de lluvia: Intermediate (pista mojada) y Full Wet (lluvia intensa)
+Regla de compuestos: En carreras secas se deben usar al menos 2 compuestos diferentes
+
+DIMENSIONES DEL AUTO (2022-2025)
+Longitud máxima: 5,600 mm
+Ancho máximo: 2,000 mm
+Altura máxima: 950 mm
+Peso mínimo (con piloto): 798 kg (2024)
+Capacidad de combustible: 110 kg máximo
+
+AERODINÁMICA
+Ala delantera: Genera ~25% de la carga aerodinámica total
+Ala trasera: Genera ~30% de la carga aerodinámica
+DRS (Drag Reduction System): Abre el flap del ala trasera, reduce resistencia ~25 km/h
+Fondo plano + difusor: Genera ~45% de la carga aerodinámica (principal innovación 2022)
+Sidepods: Diseño varía enormemente entre equipos
+
+=== DRS (DRAG REDUCTION SYSTEM) ===
+Funciona en zonas designadas de cada circuito (DRS zones)
+Activación: Solo cuando el piloto está a menos de 1 segundo del auto de adelante
+Efecto: Reduce la resistencia aerodinámica, aumentando velocidad en recta ~10-15 km/h
+Prohibido: Primera vuelta, rondas de safety car, condiciones de lluvia
+
+=== PRESUPUESTO TOPE (COST CAP) ===
+Introducido en 2021 para igualar la competencia
+2024: $135 millones USD por temporada para los 3 equipos más grandes
+Equipos pequeños tienen reducciones proporcionales
+Excluye: Salarios de pilotos, gastos de marketing, costos históricos
+Violaciones penalizadas: Multas, reducción de puntos, exclusión de campeonato
+
+=== REGLAMENTO DEPORTIVO ===
+
+FORMATO DE FIN DE SEMANA ESTÁNDAR:
+- Viernes: FP1 (60 min) + FP2 (60 min)
+- Sábado: FP3 (60 min) + Clasificación (Q1/Q2/Q3)
+- Domingo: Carrera (305 km aprox, o 2 horas máximo)
+
+FORMATO DE FIN DE SEMANA SPRINT:
+- Viernes: FP1 (60 min) + Clasificación Sprint (SQ1/SQ2/SQ3)
+- Sábado: Sprint (100 km) + Clasificación
+- Domingo: Gran Premio
+
+CLASIFICACIÓN (QUALY):
+- Q1: 18 minutos, eliminan los 5 últimos
+- Q2: 15 minutos, eliminan los 5 siguientes
+- Q3: 12 minutos, los 10 mejores luchan por la pole position
+
+PUNTUACIÓN:
+1°: 25 puntos
+2°: 18 puntos
+3°: 15 puntos
+4°: 12 puntos
+5°: 10 puntos
+6°: 8 puntos
+7°: 6 puntos
+8°: 4 puntos
+9°: 2 puntos
+10°: 1 punto
+Vuelta rápida: 1 punto adicional (solo si termina en top 10)
+Sprint: 8, 7, 6, 5, 4, 3, 2, 1 (del 1° al 8°)
+
+=== FLAGS (BANDERAS) ===
+Verde: Pista libre, carrera en marcha
+Amarilla: Peligro en la pista, prohibido adelantar
+Roja: Carrera detenida
+Azul: Piloto a punto de ser doblado, debe ceder paso
+Negra: Descalificación del piloto señalado
+Blanca/negra: Advertencia antideportiva
+Cuadros blancos y negros: Fin de carrera
+Naranja: Auto con daño que afecta a otros, debe entrar a pits
+SC (Safety Car): Vehículo de seguridad en pista
+VSC (Virtual Safety Car): Todos reducen velocidad uniformemente
+
+=== SAFETY CAR Y VSC ===
+Safety Car: Sale a pista cuando hay accidente grave
+VSC (Virtual Safety Car): Se reduce velocidad mediante sistema electrónico ~40% más lento
+Procedimiento SC: Todos los pilotos deben reducir velocidad y no adelantar hasta bandera verde
+Pit stops bajo SC: Estratégicamente ventajosos, muchos equipos aprovechan
+
+=== NEUMÁTICOS - ESTRATEGIA ===
+One-stop: Un solo pit stop, neumáticos duraderos (económico)
+Two-stop: Dos pit stops, neumáticos más rápidos pero desgaste mayor
+Undercut: Entrar antes al pit para salir con neumáticos frescos y adelantar
+Overcut: Quedarse más tiempo en pista apostando a que los rivales pierdan tiempo en pit
+Tire degradation: Desgaste de neumáticos, varía por circuito y temperatura
+Blister: Ampollas en el neumático por sobrecalentamiento
+Graining: Pelado superficial del neumático en temperaturas frías
+
+=== REGLAMENTO 2026 (CAMBIO MAYOR) ===
+Nuevo concepto aerodinámico: Menos carga aerodinámica, más "Active Aerodynamics"
+Nueva Power Unit: Elimina MGU-H, mayor componente eléctrico (50% eléctrico aprox)
+Nuevos motores: Audi y Ford entran como proveedores
+Cambio en dimensiones: Autos más cortos y livianos
+Objetivo: Mayor seguimiento cercano y más adelantamientos
